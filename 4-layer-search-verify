@@ -1,0 +1,6 @@
+#multi-layer search-verify
+
+Layer1: "Search the web for '[Specific Search Criterion]'. Remember the key highlights of your search results."
+Layer2: "Create a list of [X] Search results from 'Layer1'. Rank Most popular to least popular."
+Layer3: "Analyze 'Layer1' and 'Layer2' for inaccuracies."
+Layer4: "Revise any inaccuracies found in 'Layer3'. Include all revisions in your output. 
